@@ -1,1 +1,1 @@
-# TI-nspire-Programmbibliothek
+# Programmbibliothek für TI nspire CAS Taschenrechner
